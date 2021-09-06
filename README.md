@@ -1,4 +1,4 @@
-### Hi the
+### Hi there
 
 This repository contains all my projects
 
